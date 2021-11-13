@@ -7,4 +7,4 @@ A simple program that you can run using the command line. It takes a file name a
 	-   Count the total number of vowels in the file.
 	-   Extra: Count the frequency of W, S, D characters in the file.
 
-![](images/demo.png)
+	![](images/demo.png)
